@@ -8,11 +8,11 @@
 const id1 = Symbol('123')
 const id2 = Symbol('123')
 
-// console.log(id1 === id2);
+// console.log(id1 === id2); //false
 
 //BigInt
 const  bigNumber = 12345677n
-// console.log(typeof(bigNumber));
+// console.log(typeof(bigNumber)); //output => bigInt
 
 
 
