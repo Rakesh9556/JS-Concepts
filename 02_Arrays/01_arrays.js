@@ -40,7 +40,7 @@ console.log(myn1);
 
 console.log("B", numbers);
 
-const myn2 = numbers.splice(1,3)  // manipulate the array by removing, adding elements or both from the array => splice(st_index, no. of elements to remove)
+const myn2 = numbers.splice(1,3)  // manipulate the array by removing, adding elements or both from the array => splice(st_index, no. of elements to remove, elements to add....)
 console.log("C", numbers);
 console.log(myn2);
 
